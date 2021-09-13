@@ -1,0 +1,10 @@
+Electron x React. 
+Electron is a framework for creating native applications with web technologies like JavaScript,
+Html and Css. Together with React, 
+React is an open-source library for building user interfaces(UIs). I used these two for building
+this desktop app.
+
+if u want to download the code, make sure to run this in ur terminal
+NPM INSTALL or NPM I, works with lowercase too just to emphasize.
+This will create NODE_MODULES folder to ur root directory 
+where npm saves all packages that ur program needs to run the app.
